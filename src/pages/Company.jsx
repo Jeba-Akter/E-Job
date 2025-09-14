@@ -1,11 +1,13 @@
-import React from 'react';
+import React from "react";
+
+import CompanyBanner from "../components/CompanyBanner";
 
 const Company = () => {
-    return (
-        <div className=' text-green-500 py-5'>
-             this is company page
-        </div>
-    );
+  return (
+   <div>
+    <CompanyBanner></CompanyBanner>
+   </div>
+  );
 };
 
 export default Company;

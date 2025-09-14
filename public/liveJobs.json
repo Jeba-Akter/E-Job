@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Saudi Arabia Job",
+    "company": "Al Falah International",
+    "salary": "$450 - $550",
+    "date": "01/10/2025",
+    "location": "Saudi Arabia",
+    "logo": "https://pbs.twimg.com/media/DRFPo_AX0AAXMrZ.jpg",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 2,
+    "title": "Food Deliveryman",
+    "company": "TAFA Human Resource Development",
+    "salary": "$600",
+    "date": "01/10/2025",
+    "location": "Saudi Arabia",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1TU8ICTPFVLJa2XPtSRNPnfW6RYPrnD9uA&s",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 3,
+    "title": "Light Driver",
+    "company": "Gulf Star Manpower",
+    "salary": "$500 - $650",
+    "date": "02/10/2025",
+    "location": "Dubai, UAE",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRh267g4-A2z22Q22TYMBiwfBdobfGzBa_A&s",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 4,
+    "title": "Construction Worker",
+    "company": "Al Noor Overseas",
+    "salary": "$550",
+    "date": "03/10/2025",
+    "location": "Qatar",
+    "logo": "https://content.presentermedia.com/files/clipart/00030000/30853/male_construction_worker_icon_bust_800_wht.jpg",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 5,
+    "title": "Factory Helper",
+    "company": "Makkah Recruiting Agency",
+    "salary": "$350 - $450",
+    "date": "04/10/2025",
+    "location": "Oman",
+    "logo": "https://example.com/logo5.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 6,
+    "title": "Electrician",
+    "company": "Bright Future HR",
+    "salary": "$700",
+    "date": "05/10/2025",
+    "location": "Saudi Arabia",
+    "logo": "https://example.com/logo6.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 7,
+    "title": "Plumber",
+    "company": "Future Manpower Ltd",
+    "salary": "$550",
+    "date": "06/10/2025",
+    "location": "Bahrain",
+    "logo": "https://example.com/logo7.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 8,
+    "title": "Airport Loader",
+    "company": "Al Madina Recruiting",
+    "salary": "$400 - $500",
+    "date": "07/10/2025",
+    "location": "Dubai, UAE",
+    "logo": "https://example.com/logo8.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 9,
+    "title": "Security Guard",
+    "company": "SafeMan HR",
+    "salary": "$380",
+    "date": "08/10/2025",
+    "location": "Qatar",
+    "logo": "https://example.com/logo9.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 10,
+    "title": "Cleaner",
+    "company": "Arabia Overseas",
+    "salary": "$300",
+    "date": "09/10/2025",
+    "location": "Saudi Arabia",
+    "logo": "https://example.com/logo10.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 11,
+    "title": "Heavy Driver",
+    "company": "Desert Star Agency",
+    "salary": "$750",
+    "date": "10/10/2025",
+    "location": "Dubai, UAE",
+    "logo": "https://example.com/logo11.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 12,
+    "title": "Office Assistant",
+    "company": "Prime HR Solution",
+    "salary": "$550",
+    "date": "11/10/2025",
+    "location": "Kuwait",
+    "logo": "https://example.com/logo12.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 13,
+    "title": "Housekeeping Staff",
+    "company": "Gulf Light Manpower",
+    "salary": "$420",
+    "date": "12/10/2025",
+    "location": "Oman",
+    "logo": "https://example.com/logo13.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 14,
+    "title": "Welder",
+    "company": "Metal Works HR",
+    "salary": "$650",
+    "date": "13/10/2025",
+    "location": "Saudi Arabia",
+    "logo": "https://example.com/logo14.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 15,
+    "title": "Painter",
+    "company": "Global Manpower Agency",
+    "salary": "$500",
+    "date": "14/10/2025",
+    "location": "Dubai, UAE",
+    "logo": "https://example.com/logo15.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 16,
+    "title": "Tile Mason",
+    "company": "Star Recruiters",
+    "salary": "$520",
+    "date": "15/10/2025",
+    "location": "Qatar",
+    "logo": "https://example.com/logo16.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 17,
+    "title": "Hotel Waiter",
+    "company": "Hospitality HR",
+    "salary": "$480",
+    "date": "16/10/2025",
+    "location": "Bahrain",
+    "logo": "https://example.com/logo17.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 18,
+    "title": "Cook",
+    "company": "Arab Food Service",
+    "salary": "$550",
+    "date": "17/10/2025",
+    "location": "Saudi Arabia",
+    "logo": "https://example.com/logo18.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 19,
+    "title": "Helper",
+    "company": "Golden Manpower",
+    "salary": "$320",
+    "date": "18/10/2025",
+    "location": "Dubai, UAE",
+    "logo": "https://example.com/logo19.png",
+    "buttonText": "View Details"
+  },
+  {
+    "id": 20,
+    "title": "Steel Fixer",
+    "company": "Build HR Ltd",
+    "salary": "$580",
+    "date": "19/10/2025",
+    "location": "Qatar",
+    "logo": "https://example.com/logo20.png",
+    "buttonText": "View Details"
+  }
+]
