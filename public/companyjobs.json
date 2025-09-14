@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "HealthOS Limited",
+    "industry": "Supply Chain & Logistics",
+    "jobs": 14,
+    "website": "https://healthos.com"
+  },
+  {
+    "id": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "Kashban Business Point",
+    "industry": "Business Process Outsourcing",
+    "jobs": 10,
+    "website": "https://kashban.com"
+  },
+  {
+    "id": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "TechNova Solutions",
+    "industry": "Software Development",
+    "jobs": 25,
+    "website": "https://technova.com"
+  },
+  {
+    "id": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "MediLife Care",
+    "industry": "Healthcare & Pharmaceuticals",
+    "jobs": 18,
+    "website": "https://medilife.com"
+  },
+  {
+    "id": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "AgroFresh Foods",
+    "industry": "Food & Agriculture",
+    "jobs": 22,
+    "website": "https://agrofresh.com"
+  },
+  {
+    "id": 6,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "FinTrust Bank",
+    "industry": "Banking & Finance",
+    "jobs": 30,
+    "website": "https://fintrustbank.com"
+  },
+  {
+    "id": 7,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "EduSmart Academy",
+    "industry": "Education & E-learning",
+    "jobs": 16,
+    "website": "https://edusmart.com"
+  },
+  {
+    "id": 8,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "GreenEnergy Power",
+    "industry": "Renewable Energy",
+    "jobs": 12,
+    "website": "https://greenenergy.com"
+  },
+  {
+    "id": 9,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "BuildWell Construction",
+    "industry": "Construction & Engineering",
+    "jobs": 20,
+    "website": "https://buildwell.com"
+  },
+  {
+    "id": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "TravelMate Tours",
+    "industry": "Travel & Tourism",
+    "jobs": 9,
+    "website": "https://travelmate.com"
+  },
+  {
+    "id": 11,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "CityMart Retail",
+    "industry": "Retail & E-commerce",
+    "jobs": 28,
+    "website": "https://citymart.com"
+  },
+  {
+    "id": 12,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "SkyNet Telecom",
+    "industry": "Telecommunication",
+    "jobs": 15,
+    "website": "https://skynettelecom.com"
+  },
+  {
+    "id": 13,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "FreshStyle Fashion",
+    "industry": "Textile & Garments",
+    "jobs": 40,
+    "website": "https://freshstyle.com"
+  },
+  {
+    "id": 14,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "AutoMax Motors",
+    "industry": "Automobile",
+    "jobs": 11,
+    "website": "https://automax.com"
+  },
+  {
+    "id": 15,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "BlueOcean Shipping",
+    "industry": "Shipping & Logistics",
+    "jobs": 21,
+    "website": "https://blueocean.com"
+  },
+  {
+    "id": 16,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "CyberSafe IT",
+    "industry": "Cyber Security",
+    "jobs": 13,
+    "website": "https://cybersafe.com"
+  },
+  {
+    "id": 17,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "HappyNest Real Estate",
+    "industry": "Real Estate",
+    "jobs": 19,
+    "website": "https://happynest.com"
+  },
+  {
+    "id": 18,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "BrightAds Media",
+    "industry": "Marketing & Advertising",
+    "jobs": 17,
+    "website": "https://brightads.com"
+  },
+  {
+    "id": 19,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "GlobalCare Hospital",
+    "industry": "Hospital & Healthcare",
+    "jobs": 23,
+    "website": "https://globalcare.com"
+  },
+  {
+    "id": 20,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "name": "NextGen Robotics",
+    "industry": "Robotics & AI",
+    "jobs": 14,
+    "website": "https://nextgenrobotics.com"
+  }
+]
