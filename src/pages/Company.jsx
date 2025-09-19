@@ -11,7 +11,7 @@ const Company = () => {
         .then(data=>setcompanyjobs(data))
     },[])
   return (
-   <div className=" bg-gray-200">
+   <div className=" bg-gray-100">
     <CompanyBanner></CompanyBanner>
     <CompanyCard alljobs={companyjobs} ></CompanyCard>
     

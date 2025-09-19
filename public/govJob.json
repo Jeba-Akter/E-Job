@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Cashier",
+    "positions": 1,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Accounts & Finance",
+    "icon": "fa-solid fa-cash-register",
+    "website": "https://example.com/jobs/cashier"
+  },
+  {
+    "id": 2,
+    "title": "Accountant",
+    "positions": 1,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Finance",
+    "icon": "fa-solid fa-calculator",
+    "website": "https://example.com/jobs/accountant"
+  },
+  {
+    "id": 3,
+    "title": "Assistant Inspector",
+    "positions": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Administration",
+    "icon": "fa-solid fa-user-tie",
+    "website": "https://example.com/jobs/assistant-inspector"
+  },
+  {
+    "id": 4,
+    "title": "Software Engineer",
+    "positions": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "IT & Software",
+    "icon": "fa-solid fa-laptop-code",
+    "website": "https://example.com/jobs/software-engineer"
+  },
+  {
+    "id": 5,
+    "title": "HR Manager",
+    "positions": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Human Resources",
+    "icon": "fa-solid fa-users",
+    "website": "https://example.com/jobs/hr-manager"
+  },
+  {
+    "id": 6,
+    "title": "Marketing Executive",
+    "positions": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Marketing & Advertising",
+    "icon": "fa-solid fa-bullhorn",
+    "website": "https://example.com/jobs/marketing-executive"
+  },
+  {
+    "id": 7,
+    "title": "Sales Officer",
+    "positions": 7,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Sales",
+    "icon": "fa-solid fa-handshake",
+    "website": "https://example.com/jobs/sales-officer"
+  },
+  {
+    "id": 8,
+    "title": "Graphic Designer",
+    "positions": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Design & Creative",
+    "icon": "fa-solid fa-paintbrush",
+    "website": "https://example.com/jobs/graphic-designer"
+  },
+  {
+    "id": 9,
+    "title": "Content Writer",
+    "positions": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Media & Publishing",
+    "icon": "fa-solid fa-pen-nib",
+    "website": "https://example.com/jobs/content-writer"
+  },
+  {
+    "id": 10,
+    "title": "Customer Support",
+    "positions": 6,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Customer Service",
+    "icon": "fa-solid fa-headset",
+    "website": "https://example.com/jobs/customer-support"
+  },
+  {
+    "id": 11,
+    "title": "Data Analyst",
+    "positions": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Data & Analytics",
+    "icon": "fa-solid fa-chart-line",
+    "website": "https://example.com/jobs/data-analyst"
+  },
+  {
+    "id": 12,
+    "title": "Project Manager",
+    "positions": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Management",
+    "icon": "fa-solid fa-briefcase",
+    "website": "https://example.com/jobs/project-manager"
+  },
+  {
+    "id": 13,
+    "title": "Doctor",
+    "positions": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Healthcare",
+    "icon": "fa-solid fa-user-doctor",
+    "website": "https://example.com/jobs/doctor"
+  },
+  {
+    "id": 14,
+    "title": "Nurse",
+    "positions": 8,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Healthcare",
+    "icon": "fa-solid fa-syringe",
+    "website": "https://example.com/jobs/nurse"
+  },
+  {
+    "id": 15,
+    "title": "Teacher",
+    "positions": 10,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Education",
+    "icon": "fa-solid fa-chalkboard-teacher",
+    "website": "https://example.com/jobs/teacher"
+  },
+  {
+    "id": 16,
+    "title": "Security Guard",
+    "positions": 12,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Security",
+    "icon": "fa-solid fa-shield-halved",
+    "website": "https://example.com/jobs/security-guard"
+  },
+  {
+    "id": 17,
+    "title": "Driver",
+    "positions": 6,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Transport",
+    "icon": "fa-solid fa-car",
+    "website": "https://example.com/jobs/driver"
+  },
+  {
+    "id": 18,
+    "title": "Electrician",
+    "positions": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Technical",
+    "icon": "fa-solid fa-bolt",
+    "website": "https://example.com/jobs/electrician"
+  },
+  {
+    "id": 19,
+    "title": "Plumber",
+    "positions": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Maintenance",
+    "icon": "fa-solid fa-wrench",
+    "website": "https://example.com/jobs/plumber"
+  },
+  {
+    "id": 20,
+    "title": "Chef",
+    "positions": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+    "industry": "Hospitality",
+    "icon": "fa-solid fa-utensils",
+    "website": "https://example.com/jobs/chef"
+  }
+]
